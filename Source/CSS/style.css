@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #222831;
+  background-color: #f0ebcc;
   font-family: 'Muli', sans-serif;
   display: flex;
   flex-direction: column;
@@ -17,14 +17,13 @@ body {
 }
 
 h1 {
-  color: #30475e;
+  color: #344fa1;
 }
 
 h2,
 h3 {
-  color: #f2a365;
+  color: #3d84b8;
 }
 
 p {
-  color: #ececec;
 }
